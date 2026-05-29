@@ -1,16 +1,22 @@
 # joelterheide.github.io
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joel-ter-heide-9aa70a3b7" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/joel-ter-heide-9aa70a3b7?trk=profile-badge">Joel ter Heide</a>
-</div>
-
-<script>
-    // Wartet, bis die Seite komplett geladen ist, und fügt dann das LinkedIn-Skript ein
-    window.addEventListener('DOMContentLoaded', (event) => {
-        var script = document.createElement('script');
-        script.src = "https://platform.linkedin.com/badges/js/profile.js";
-        script.async = true;
-        script.defer = true;
-        document.body.appendChild(script);
-    });
-</script>
+<a href="https://de.linkedin.com/in/joel-ter-heide-9aa70a3b7" target="_blank" rel="noopener noreferrer" style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #0a66c2;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 50px;
+    box-shadow: 0 4px 12px rgba(10, 102, 194, 0.3);
+    transition: all 0.2s ease-in-out;
+" onmouseover="this.style.backgroundColor='#004182'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#0a66c2'; this.style.transform='translateY(0)';">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#ffffff" style="margin-right: 12px;">
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+    </svg>
+    LinkedIn Profil ansehen
+</a>
 
