@@ -16,5 +16,4 @@
 " onmouseover="this.style.backgroundColor='#004182'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#0a66c2'; this.style.transform='translateY(0)';">
     
 
-    LinkedIn Profil ansehen
-</a>
+    : LinkedIn Profil ansehen
