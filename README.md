@@ -16,4 +16,4 @@
 " onmouseover="this.style.backgroundColor='#004182'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#0a66c2'; this.style.transform='translateY(0)';">
     
 
-    Auf den blauen Button klicken, um LinkedIn Profil ansehen  ! Website im Aufbau !
+    Auf den blauen Button klicken, um LinkedIn Profil anzusehen  ! Website im Aufbau !
